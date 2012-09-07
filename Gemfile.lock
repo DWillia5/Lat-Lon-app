@@ -1,0 +1,9 @@
+GEM
+  specs:
+    geonames (0.2.2)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  geonames
